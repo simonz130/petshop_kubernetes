@@ -10,13 +10,13 @@ using PetShop.IProfileDAL;
 namespace PetShop.SQLProfileDAL {
 	class PetShopProfileProvider : IPetShopProfileProvider {
 
-		// Contst matching System.Web.Profile.ProfileAuthenticationOption.Anonymous
+		// Const matching System.Web.Profile.ProfileAuthenticationOption.Anonymous
 		private const int AUTH_ANONYMOUS = 0;
 
-		// Contst matching System.Web.Profile.ProfileAuthenticationOption.Authenticated
+		// Const matching System.Web.Profile.ProfileAuthenticationOption.Authenticated
 		private const int AUTH_AUTHENTICATED = 1;
 
-		// Contst matching System.Web.Profile.ProfileAuthenticationOption.All
+		// Const matching System.Web.Profile.ProfileAuthenticationOption.All
 		private const int AUTH_ALL = 2;
 
         /// <summary>

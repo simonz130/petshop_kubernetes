@@ -97,10 +97,6 @@
       <Project>{E193BBF4-ED79-4228-8020-950F71C667C7}</Project>
       <Name>MSMQMessaging</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Oracle\OracleDAL.csproj">
-      <Project>{73CDF15E-9236-4B41-A6CB-0683B6D38A38}</Project>
-      <Name>OracleDAL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\SQLServer\SQLServerDAL.csproj">
       <Project>{9AA6B962-0628-4C0D-A4EA-54A244C32136}</Project>
       <Name>SQLServerDAL</Name>
